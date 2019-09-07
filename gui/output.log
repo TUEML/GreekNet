@@ -1,0 +1,192 @@
+DEBUG:root:Dataset creation program started -- 2019-05-31 14:38:58.631924
+
+INFO:root:
+Create Statistic object.
+
+INFO:root:
+Create statistics file procedure started.
+DEBUG:root:Existing statistics file found -- dataset_statistics.csv
+DEBUG:root:
+Compile design file procedure started.
+DEBUG:root:Current working directory was changed to: /home/laptop/Documents/Uni/greek-letter-classifier/gui/UI
+DEBUG:root:Transated '.ui' file.
+DEBUG:root:Current working directory was changed to: /home/laptop/Documents/Uni/greek-letter-classifier/Dataset
+DEBUG:root:
+Select storage directory (top) path procedure started.
+DEBUG:root:
+Started create directories procedure.
+DEBUG:root:Finished create directories procedure.
+DEBUG:root:Selected storage directory path: /home/laptop/Documents/Uni/greek-letter-classifier/Dataset/train
+DEBUG:root:
+Scan data storage directory procedure started.
+DEBUG:root:TRAIN Found samples Alpha, quantity = 32
+DEBUG:root:TRAIN Found samples Phi, quantity = 32
+DEBUG:root:TRAIN Found samples Rho, quantity = 32
+DEBUG:root:TRAIN Found samples Eta, quantity = 32
+DEBUG:root:TRAIN Found samples Chi, quantity = 32
+DEBUG:root:TRAIN Found samples Theta, quantity = 32
+DEBUG:root:TRAIN Found samples Delta, quantity = 33
+DEBUG:root:TRAIN Found samples Kappa, quantity = 32
+DEBUG:root:TRAIN Found samples Psi, quantity = 32
+DEBUG:root:TRAIN Found samples Ypsilon, quantity = 32
+DEBUG:root:TRAIN Found samples Sigma, quantity = 32
+DEBUG:root:TRAIN Found samples Omega, quantity = 32
+DEBUG:root:TRAIN Found samples Epsilon, quantity = 32
+DEBUG:root:TRAIN Found samples Ny, quantity = 32
+DEBUG:root:TRAIN Found samples Beta, quantity = 32
+DEBUG:root:TRAIN Found samples Omikron, quantity = 32
+DEBUG:root:TRAIN Found samples Gamma, quantity = 32
+DEBUG:root:TRAIN Found samples My, quantity = 32
+DEBUG:root:TRAIN Found samples Iota, quantity = 32
+DEBUG:root:TRAIN Found samples Xi, quantity = 32
+DEBUG:root:TRAIN Found samples Pi, quantity = 32
+DEBUG:root:TRAIN Found samples Tau, quantity = 32
+DEBUG:root:TRAIN Found samples Lambda, quantity = 32
+DEBUG:root:TRAIN Found samples Zeta, quantity = 32
+DEBUG:root:Mode = 0; Total files = 769 & Total samples = 769
+DEBUG:root:Scan data storage directory procedure finished.
+DEBUG:root:
+Scan data storage directory procedure started.
+DEBUG:root:TEST Found samples Alpha, quantity = 12
+DEBUG:root:TEST Found samples Phi, quantity = 9
+DEBUG:root:TEST Found samples Rho, quantity = 9
+DEBUG:root:TEST Found samples Eta, quantity = 9
+DEBUG:root:TEST Found samples Chi, quantity = 9
+DEBUG:root:TEST Found samples Theta, quantity = 9
+DEBUG:root:TEST Found samples Delta, quantity = 10
+DEBUG:root:TEST Found samples Kappa, quantity = 9
+DEBUG:root:TEST Found samples Psi, quantity = 9
+DEBUG:root:TEST Found samples Ypsilon, quantity = 9
+DEBUG:root:TEST Found samples Sigma, quantity = 9
+DEBUG:root:TEST Found samples Omega, quantity = 9
+DEBUG:root:TEST Found samples Epsilon, quantity = 10
+DEBUG:root:TEST Found samples Ny, quantity = 9
+DEBUG:root:TEST Found samples Beta, quantity = 12
+DEBUG:root:TEST Found samples Omikron, quantity = 9
+DEBUG:root:TEST Found samples Gamma, quantity = 10
+DEBUG:root:TEST Found samples My, quantity = 9
+DEBUG:root:TEST Found samples Iota, quantity = 9
+DEBUG:root:TEST Found samples Xi, quantity = 10
+DEBUG:root:TEST Found samples Pi, quantity = 9
+DEBUG:root:TEST Found samples Tau, quantity = 9
+DEBUG:root:TEST Found samples Lambda, quantity = 9
+DEBUG:root:TEST Found samples Zeta, quantity = 9
+DEBUG:root:Mode = 1; Total files = 226 & Total samples = 226
+DEBUG:root:Scan data storage directory procedure finished.
+DEBUG:root:
+Scan data storage directory procedure started.
+DEBUG:root:TRAIN Found samples Alpha, quantity = 32
+DEBUG:root:TRAIN Found samples Phi, quantity = 32
+DEBUG:root:TRAIN Found samples Rho, quantity = 32
+DEBUG:root:TRAIN Found samples Eta, quantity = 32
+DEBUG:root:TRAIN Found samples Chi, quantity = 32
+DEBUG:root:TRAIN Found samples Theta, quantity = 32
+DEBUG:root:TRAIN Found samples Delta, quantity = 33
+DEBUG:root:TRAIN Found samples Kappa, quantity = 32
+DEBUG:root:TRAIN Found samples Psi, quantity = 32
+DEBUG:root:TRAIN Found samples Ypsilon, quantity = 32
+DEBUG:root:TRAIN Found samples Sigma, quantity = 32
+DEBUG:root:TRAIN Found samples Omega, quantity = 32
+DEBUG:root:TRAIN Found samples Epsilon, quantity = 32
+DEBUG:root:TRAIN Found samples Ny, quantity = 32
+DEBUG:root:TRAIN Found samples Beta, quantity = 32
+DEBUG:root:TRAIN Found samples Omikron, quantity = 32
+DEBUG:root:TRAIN Found samples Gamma, quantity = 32
+DEBUG:root:TRAIN Found samples My, quantity = 32
+DEBUG:root:TRAIN Found samples Iota, quantity = 32
+DEBUG:root:TRAIN Found samples Xi, quantity = 32
+DEBUG:root:TRAIN Found samples Pi, quantity = 32
+DEBUG:root:TRAIN Found samples Tau, quantity = 32
+DEBUG:root:TRAIN Found samples Lambda, quantity = 32
+DEBUG:root:TRAIN Found samples Zeta, quantity = 32
+DEBUG:root:Mode = 0; Total files = 769 & Total samples = 769
+DEBUG:root:Scan data storage directory procedure finished.
+DEBUG:root:
+Scan data storage directory procedure started.
+DEBUG:root:TEST Found samples Alpha, quantity = 12
+DEBUG:root:TEST Found samples Phi, quantity = 9
+DEBUG:root:TEST Found samples Rho, quantity = 9
+DEBUG:root:TEST Found samples Eta, quantity = 9
+DEBUG:root:TEST Found samples Chi, quantity = 9
+DEBUG:root:TEST Found samples Theta, quantity = 9
+DEBUG:root:TEST Found samples Delta, quantity = 10
+DEBUG:root:TEST Found samples Kappa, quantity = 9
+DEBUG:root:TEST Found samples Psi, quantity = 9
+DEBUG:root:TEST Found samples Ypsilon, quantity = 9
+DEBUG:root:TEST Found samples Sigma, quantity = 9
+DEBUG:root:TEST Found samples Omega, quantity = 9
+DEBUG:root:TEST Found samples Epsilon, quantity = 10
+DEBUG:root:TEST Found samples Ny, quantity = 9
+DEBUG:root:TEST Found samples Beta, quantity = 12
+DEBUG:root:TEST Found samples Omikron, quantity = 9
+DEBUG:root:TEST Found samples Gamma, quantity = 10
+DEBUG:root:TEST Found samples My, quantity = 9
+DEBUG:root:TEST Found samples Iota, quantity = 9
+DEBUG:root:TEST Found samples Xi, quantity = 10
+DEBUG:root:TEST Found samples Pi, quantity = 9
+DEBUG:root:TEST Found samples Tau, quantity = 9
+DEBUG:root:TEST Found samples Lambda, quantity = 9
+DEBUG:root:TEST Found samples Zeta, quantity = 9
+DEBUG:root:Mode = 1; Total files = 226 & Total samples = 226
+DEBUG:root:Scan data storage directory procedure finished.
+DEBUG:root:
+Started create directories procedure.
+DEBUG:root:Finished create directories procedure.
+DEBUG:root:Creation mode TRAIN, update UI labels.
+DEBUG:root:Set storage directory: /home/laptop/Documents/Uni/greek-letter-classifier/Dataset/train
+DEBUG:root:Empty image detected, do not save it on disk.
+DEBUG:root:Escape button pressed, terminate program.
+DEBUG:root:
+Update statistics file procedure started.
+DEBUG:root:TRAIN: Value 769 from statistics obj written.
+DEBUG:root:TRAIN: Value 32 from statistics obj written.
+DEBUG:root:TRAIN: Value 32 from statistics obj written.
+DEBUG:root:TRAIN: Value 32 from statistics obj written.
+DEBUG:root:TRAIN: Value 33 from statistics obj written.
+DEBUG:root:TRAIN: Value 32 from statistics obj written.
+DEBUG:root:TRAIN: Value 32 from statistics obj written.
+DEBUG:root:TRAIN: Value 32 from statistics obj written.
+DEBUG:root:TRAIN: Value 32 from statistics obj written.
+DEBUG:root:TRAIN: Value 32 from statistics obj written.
+DEBUG:root:TRAIN: Value 32 from statistics obj written.
+DEBUG:root:TRAIN: Value 32 from statistics obj written.
+DEBUG:root:TRAIN: Value 32 from statistics obj written.
+DEBUG:root:TRAIN: Value 32 from statistics obj written.
+DEBUG:root:TRAIN: Value 32 from statistics obj written.
+DEBUG:root:TRAIN: Value 32 from statistics obj written.
+DEBUG:root:TRAIN: Value 32 from statistics obj written.
+DEBUG:root:TRAIN: Value 32 from statistics obj written.
+DEBUG:root:TRAIN: Value 32 from statistics obj written.
+DEBUG:root:TRAIN: Value 32 from statistics obj written.
+DEBUG:root:TRAIN: Value 32 from statistics obj written.
+DEBUG:root:TRAIN: Value 32 from statistics obj written.
+DEBUG:root:TRAIN: Value 32 from statistics obj written.
+DEBUG:root:TRAIN: Value 32 from statistics obj written.
+DEBUG:root:TRAIN: Value 32 from statistics obj written.
+DEBUG:root:TEST: Value 226 from statistics obj written.
+DEBUG:root:TEST: Value 12 from statistics obj written.
+DEBUG:root:TEST: Value 12 from statistics obj written.
+DEBUG:root:TEST: Value 10 from statistics obj written.
+DEBUG:root:TEST: Value 10 from statistics obj written.
+DEBUG:root:TEST: Value 10 from statistics obj written.
+DEBUG:root:TEST: Value 9 from statistics obj written.
+DEBUG:root:TEST: Value 9 from statistics obj written.
+DEBUG:root:TEST: Value 9 from statistics obj written.
+DEBUG:root:TEST: Value 9 from statistics obj written.
+DEBUG:root:TEST: Value 9 from statistics obj written.
+DEBUG:root:TEST: Value 9 from statistics obj written.
+DEBUG:root:TEST: Value 9 from statistics obj written.
+DEBUG:root:TEST: Value 9 from statistics obj written.
+DEBUG:root:TEST: Value 10 from statistics obj written.
+DEBUG:root:TEST: Value 9 from statistics obj written.
+DEBUG:root:TEST: Value 9 from statistics obj written.
+DEBUG:root:TEST: Value 9 from statistics obj written.
+DEBUG:root:TEST: Value 9 from statistics obj written.
+DEBUG:root:TEST: Value 9 from statistics obj written.
+DEBUG:root:TEST: Value 9 from statistics obj written.
+DEBUG:root:TEST: Value 9 from statistics obj written.
+DEBUG:root:TEST: Value 9 from statistics obj written.
+DEBUG:root:TEST: Value 9 from statistics obj written.
+DEBUG:root:TEST: Value 9 from statistics obj written.
+DEBUG:root:Update statistics file procedure finished.
+DEBUG:root:Dataset creation program terminated -- 2019-05-31 14:39:45.677092

@@ -1,0 +1,10 @@
+venv/
+__py*
+.idea
+.pyc
+gui/images/
+.cache
+.ipynb_checkpoints
+checkpoints/
+.log
+*.ckpt
