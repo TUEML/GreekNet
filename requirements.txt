@@ -1,6 +1,6 @@
 pytest
 pyqt5
-tensorflow==1.12
+tensorflow==1.12.2
 opencv-python
 numpy
 pillow
